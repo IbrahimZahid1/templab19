@@ -10,7 +10,7 @@ namespace templab19
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("hello worldddd");
+            Console.WriteLine("hello");
             Console.ReadLine();
         }
     }
